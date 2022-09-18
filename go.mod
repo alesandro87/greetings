@@ -1,3 +1,3 @@
-module gitlab.com/alesworkpublic/greetings.git
+module github.com/alesandro87/greetings
 
 go 1.18
