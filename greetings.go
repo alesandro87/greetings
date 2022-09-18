@@ -3,6 +3,6 @@ package greetings
 import "log"
 
 // greet ...
-func greet() {
+func Greet() {
 	log.Println("greet")
 }
